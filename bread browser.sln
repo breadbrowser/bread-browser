@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bread browser", "bread browser\bread browser.vbproj", "{B4166F95-51DA-4415-AE84-E57B3F53D1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4166F95-51DA-4415-AE84-E57B3F53D1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4166F95-51DA-4415-AE84-E57B3F53D1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4166F95-51DA-4415-AE84-E57B3F53D1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4166F95-51DA-4415-AE84-E57B3F53D1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EBE9F2-4EE5-46AC-AE39-676F92E0ACF5}
+	EndGlobalSection
+EndGlobal
